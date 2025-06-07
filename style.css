@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(175, 230, 255);
+}
+.white{
+    color: aliceblue;
+}
+.aqua{
+    color: rgb(255, 255, 255);
+}
+.blue{
+    color: rgb(231, 231, 231);
+}
+.name{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;}
+.rt{
+    color: aliceblue;
+}
